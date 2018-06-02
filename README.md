@@ -2,7 +2,7 @@
 
 This applicaion allows users to search and play youtube videos.
 
-This is a mini project created for learning React. It is based on the course 'Modern React with Redux' from udemy. 
+This is a mini project created for learning React. It is based on the course 'Modern React with Redux' from udemy.
 
 ## Requirements
   - Search functionality for youtube videos
